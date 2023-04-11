@@ -9,5 +9,7 @@ public class Test1 {
 	public void getinfo1() {
 		System.out.println("Pushing scond time");
 	}
+	
+	String firstName ="john";
 
 }
